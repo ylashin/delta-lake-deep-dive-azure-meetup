@@ -4,9 +4,9 @@ Notebooks and presenation for Delta Lake Deep Dive at Azure Data Services meetup
 ## Notebooks:
 
 - [1 - Fundamentals](./notebooks/1-Fundamentals.ipynb)
-- [2 - Concurrency](./notebooks/Concurrency.ipynb)
+- [2 - Concurrency](./notebooks/2-Concurrency.ipynb)
 - [3a - Prepare Optimisations data](./notebooks/3a-Prepare-NYC-Data.ipynb)
-- [3b - Inspect Optimisations ](./notebooks/3b-Optimisations.ipynb)
+- [3b - Inspect Optimisations ](./notebooks/3b-Optimisation.ipynb)
 
 
 ## Resources:
